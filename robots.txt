@@ -1,8 +1,15 @@
-User-agent: GPTBot
+User-agent: GBTBot
+Disallow: /
 User-agent: ClaudeBot
+Disallow: /
 User-agent: Claude-Web
-
-User-agent: *
-Allow: /
-
+Disallow: /
+User-agent: CCBot
+Disallow: /
+User-agent: Google-Extended
+Disallow: /
+User-agent: Bytespider
+Disallow: /
+User-agent: PerplexityBot
+Disallow: /
 Sitemap: https://anthony-j-g.github.io/sitemap-index.xml
